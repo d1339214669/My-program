@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lianxi3", "lianxi3.vcproj", "{C085BC6D-6F36-49B7-AAD2-96C8B419EE38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C085BC6D-6F36-49B7-AAD2-96C8B419EE38}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C085BC6D-6F36-49B7-AAD2-96C8B419EE38}.Debug|Win32.Build.0 = Debug|Win32
+		{C085BC6D-6F36-49B7-AAD2-96C8B419EE38}.Release|Win32.ActiveCfg = Release|Win32
+		{C085BC6D-6F36-49B7-AAD2-96C8B419EE38}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
