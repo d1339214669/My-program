@@ -1,3 +1,4 @@
+
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<stdlib.h>
@@ -8,11 +9,12 @@ int main()
 	int max=0;
 	for(i=0;i<10;i++)
 		scanf("%d",&a[i]);
+        max=a[0];
 	for(i=0;i<10;i++)
 	{
         if(a[i]>max)
 			max=a[i];
 	}
-	printf("最大值为：%d",max);
+	printf("脳卯麓贸脰碌脦陋拢潞%d",max);
 	return 0;
 }
