@@ -7,11 +7,11 @@ int main()
 	int sum2 = 0;
 	for (i = 1;i <= 99;i+=2)
 	{
-        sum1=sum1+1/i;
+        sum1=sum1+1.0/i;
 	}
 	for (i = 2;i <= 100;i+=2)
 	{
-        sum2=sum2+1/i;
+        sum2=sum2+1.0/i;
 	}
     printf("sum = %d\n",sum1 - sum2);
 	return 0;
