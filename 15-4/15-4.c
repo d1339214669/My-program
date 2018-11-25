@@ -1,10 +1,13 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
+#include<assert.h>
 
 char* My_strcat(char* p, const char* q)
 {
 	int i = 0;
 	int j = 0;
+	assert(p);
+	assert(q);
 	while(*(p+i) != '\0')
 	{
 		i++;
